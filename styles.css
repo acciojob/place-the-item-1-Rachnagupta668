@@ -1,2 +1,33 @@
+.odd{
+	background-color:green;
+	
+		justify-content:center; 
+	padding:50px;
+}
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	padding:20px;
+justify-content:space-between;
+	
+}
 
-/* Your CSS Code here. */
+
+.blue{
+	background-color:blue;
+	
+		justify-content:center; 
+	padding:50px;
+	
+	
+}
+
+.red{
+	background-color:red;
+	
+		justify-content:center; 
+	padding:50px;
+	
+}
+
+
